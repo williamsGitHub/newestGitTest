@@ -4,5 +4,6 @@ public class BBX {
     public static void main(String[] args) {
         System.out.println("bbssssssww");
         System.out.println("IDEA写入的数据");
+        System.out.println("GitHub写入的数据");
     }
 }
